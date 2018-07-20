@@ -1,0 +1,11 @@
+Package: fakedatagenerator
+Type: Package
+Title: Generate Fake Trial Data
+Version: 0.1.0
+Author: Praekelt.org
+Maintainer: Praekelt.org Reasearch Team <research@praekelt.org>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: BSD 2-Clause "Simplified" License
+Encoding: UTF-8
+LazyData: true
